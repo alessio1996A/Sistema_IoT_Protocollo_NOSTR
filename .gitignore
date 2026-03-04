@@ -1,0 +1,13 @@
+# Segreti e configurazioni
+.env
+
+# Database locali
+*.db
+relay_data.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.idea/
+.vscode/
